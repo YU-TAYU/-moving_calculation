@@ -1,4 +1,4 @@
-# -moving_calculation
+# moving_calculation
 python small application
 
 # Install
